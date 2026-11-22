@@ -1,5 +1,5 @@
 # AuraPilot · 极光领航
-
+本程序在G64JVR适用，也许同样适用于USB HID协议内置键盘的ROG笔记本电脑。
 macOS 原生的 ASUS ROG 灯光控制台。粉色系界面，菜单栏常驻，后台是一套可替换传输层的灯效引擎，面向黑苹果机型与 macOS 用户。
 
 > **背景说明**：Windows 上的 G-Helper 无法直接移植到 macOS——它是 C#/WinForms，笔记本灯光走 ACPI-WMI，而 XNU 内核没有这条栈。本项目在 macOS 侧**独立重写**后台与界面，并把传输层做成可替换：USB HID（原生可用）/ 远程桥（另一台机器代理 ACPI）/ 演示模式。
