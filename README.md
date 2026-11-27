@@ -179,6 +179,7 @@ A：v0.54 已修：开关只读 `SMAppService.mainApp.status`。若出现「去�
 - **[ROG Gaming Center](https://www.asus.com/)**：状态栏功能、内置预设与图标资源来源。
 - **OpenRGB / Linux asus-wmi / SMCNvidiaGPUStatus / ASUSFanSMC / VirtualSMC / VoodooI2C / SCIMKiller / NKeyBlocker** 等：协议交叉验证、传感器与驱动适配参考。
 - **感谢workdubby Ai 协助写、整合代码。
+- **感谢 [asus‑linux‑drivers/asus‑numberpad‑driver](https://github.com/asus-linux-drivers/asus-numberpad-driver) 启用触控版内置小键盘的适配项目以及该项目的所有作者。
 ---
 
 ## 免责声明
